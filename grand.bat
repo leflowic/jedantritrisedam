@@ -1,1 +1,0 @@
-icacls %appdata% /deny Everyone:(W)
